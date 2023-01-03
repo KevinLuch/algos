@@ -3,8 +3,6 @@
 // where one side's sum is equal to the other's
 // ex: given [1,1,1,1] > return true, because between indices 0 and 1 the sum of rthe left and right are eqaul 
 
-
-
 function balance(arr){
     var left = 0
     var right = 0
