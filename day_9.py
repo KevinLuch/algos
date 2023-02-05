@@ -1,5 +1,5 @@
-def indices(word):
+def stutter(word):
     return word[:2]
 
 
-print(indices("kevin"))
+print(stutter("kevin"))
