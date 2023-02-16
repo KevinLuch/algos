@@ -1,5 +1,4 @@
 
-
 def save_user(**user):
     print(user["age"])
 
