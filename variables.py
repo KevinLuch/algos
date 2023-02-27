@@ -17,3 +17,15 @@ print(price)
 full_name = 'John Smith'
 age = 20
 is_new = True
+
+
+students_count = 1000
+print(students_count)
+
+# Variables
+# Integers (whole numbers)
+# Floats (floating point number, decimal number)
+# String (text)
+# Boolean values
+
+# Variable names should be descriptive and meaningful
